@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alaanofear-monsters/static/css/main.64f4a70c.chunk.css",
+    "main.js": "/alaanofear-monsters/static/js/main.b7f41a2b.chunk.js",
+    "main.js.map": "/alaanofear-monsters/static/js/main.b7f41a2b.chunk.js.map",
+    "runtime-main.js": "/alaanofear-monsters/static/js/runtime-main.5e800fc0.js",
+    "runtime-main.js.map": "/alaanofear-monsters/static/js/runtime-main.5e800fc0.js.map",
+    "static/js/2.b4309f00.chunk.js": "/alaanofear-monsters/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/alaanofear-monsters/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/alaanofear-monsters/index.html",
+    "precache-manifest.1c1788d0a39c12c91781a3806b114909.js": "/alaanofear-monsters/precache-manifest.1c1788d0a39c12c91781a3806b114909.js",
+    "service-worker.js": "/alaanofear-monsters/service-worker.js",
+    "static/css/main.64f4a70c.chunk.css.map": "/alaanofear-monsters/static/css/main.64f4a70c.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/alaanofear-monsters/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e800fc0.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.64f4a70c.chunk.css",
+    "static/js/main.b7f41a2b.chunk.js"
+  ]
+}
